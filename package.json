@@ -1,0 +1,24 @@
+{
+  "name": "restmongo",
+  "version": "0.0.1",
+  "description": "RESTful API backed by MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolashenschel/restAPImongodb.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Mongo"
+  ],
+  "author": "Nicolas Henschel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolashenschel/restAPImongodb/issues"
+  },
+  "homepage": "https://github.com/nicolashenschel/restAPImongodb#readme"
+}
